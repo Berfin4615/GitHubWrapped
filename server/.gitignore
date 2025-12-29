@@ -1,0 +1,5 @@
+server/.env
+server/package.json
+.env
+.env.*
+!.env.example
